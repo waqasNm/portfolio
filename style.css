@@ -1,0 +1,12 @@
+/*h3:hover, h1:hover ,.edit:hover{
+	border:1px dashed blue;
+}*/
+
+h3,h1{
+	width: 300px;
+}
+
+.main {
+	width: 300px;
+	margin: 0 auto;
+}
